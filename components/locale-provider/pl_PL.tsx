@@ -31,7 +31,7 @@ export default {
   },
   Transfer: {
     notFoundContent: 'Nie znaleziono',
-    searchPlaceholder: 'Wyszukaj tutaj',
+    searchPlaceholder: 'Wyszukaj',
     itemUnit: 'obiekt',
     itemsUnit: 'obiekty',
   },
